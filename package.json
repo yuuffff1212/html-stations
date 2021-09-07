@@ -9,7 +9,7 @@
     "fp-ts": "^2.11.1",
     "htmlhint": "^0.15.1",
     "lite-server": "^2.6.1",
-    "prettier": "^2.3.2",
+    "prettier": "2.3.2",
     "simple-git-hooks": "^2.5.1",
     "typescript": "^4.3.5",
     "wcag-color": "^1.1.1",
