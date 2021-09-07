@@ -19,6 +19,10 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="station5" />
+                    <option name="lastUsedInstant" value="1631019809" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="station4" />
                     <option name="lastUsedInstant" value="1631015650" />
                   </RecentBranch>
