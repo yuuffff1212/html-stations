@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0460d1c2-7ed0-4097-b7e5-32dcb3a2b0f4" name="デフォルト変更リスト" comment="" />
+    <list default="true" id="0460d1c2-7ed0-4097-b7e5-32dcb3a2b0f4" name="デフォルト変更リスト" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/station6.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/station6.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/station6.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/station6.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +75,7 @@
   <component name="RunManager">
     <configuration default="true" type="RackRunConfigurationType" factoryName="Rack">
       <RACK_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
-      <RACK_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RACK_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
       <RACK_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
       <RACK_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <RACK_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
@@ -98,6 +105,7 @@
       <updated>1631008907819</updated>
       <workItem from="1631008909055" duration="4910000" />
       <workItem from="1631015810955" duration="2007000" />
+      <workItem from="1632711077383" duration="2060000" />
     </task>
     <servers />
   </component>
