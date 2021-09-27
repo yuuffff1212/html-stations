@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0460d1c2-7ed0-4097-b7e5-32dcb3a2b0f4" name="デフォルト変更リスト" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scripts/station12-common.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/station12-common.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +105,7 @@
       <workItem from="1631008909055" duration="4910000" />
       <workItem from="1631015810955" duration="2007000" />
       <workItem from="1632711077383" duration="2658000" />
-      <workItem from="1632721255705" duration="1027000" />
+      <workItem from="1632721255705" duration="1720000" />
     </task>
     <servers />
   </component>
