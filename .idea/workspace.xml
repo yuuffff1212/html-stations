@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0460d1c2-7ed0-4097-b7e5-32dcb3a2b0f4" name="デフォルト変更リスト" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/css/station9.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/station9.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/station9.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/station9.html" afterDir="false" />
-    </list>
+    <list default="true" id="0460d1c2-7ed0-4097-b7e5-32dcb3a2b0f4" name="デフォルト変更リスト" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
